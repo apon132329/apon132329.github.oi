@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://test.com/index.html</loc>
+    <lastmod>2017-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://test.com/images/untitlesd-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/1111111-crop-u276.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/facebook_circle_color-256.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/twitter_circle_color-256.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://test.com/images/8ca486faebd822ddf4baf00321b16df1-google-icon-logo-by-vexels.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
